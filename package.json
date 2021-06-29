@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "David",
 	"description": "a FCC app for practicing with npm",
+	"version": "1.0.0",
 	"keywords": ["freecodecamp", "practice", "npm", "heroku"],
 	"license": "only fanclub members, please",
 	"dependencies": {
